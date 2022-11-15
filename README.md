@@ -44,6 +44,6 @@
 
 
 <div>
-<img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api?username=emptyfist&show_icons=true&theme=radical&count_private=true">
-<img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emptyfist&layout=compact&theme=radical&count_private=true&langs_count=8&exclude_repo=ntt-docomohikari">
+<img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api?username=emptyfist&show_icons=true&count_private=true">
+<img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emptyfist&layout=compact&count_private=true&langs_count=8&exclude_repo=ntt-docomohikari">
 </div>
