@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Forest Sapphire.</h1>
 <h3 align="center">Always wanna do something new.</h3>
 
-- 📫 How to reach me **forest.sapphire119@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">**forest.sapphire119@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
