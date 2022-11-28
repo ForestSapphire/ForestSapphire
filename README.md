@@ -3,8 +3,6 @@
 
 ## Favorites
 
-##* 🌱 Currently working at FullStack
-##* 🔍 Looking for collaborate on Frontend and Backend development.
 * 💬 Ask me about the problems while developing frontend platforms.
 
 <br />
