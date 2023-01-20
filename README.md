@@ -39,6 +39,3 @@
 	  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="200"/></td>
   </tr>  
 </table>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forestsapphire&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
