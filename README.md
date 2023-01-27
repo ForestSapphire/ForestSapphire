@@ -1,18 +1,7 @@
 <h1 align="center">Hi 👋, there.</h1>
 <h3 align="center">Always wanna challenge something new.</h3>
 
-## Favorites
 
-* 💬 Ask me about the problems while developing frontend platforms.
-
-<br />
-<br />
-
-## Contact
-<img width="16" height="16" src="https://github.com/ErickSimoes/email-icon/blob/master/gp.png" />&nbsp;&nbsp;forest.sapphire119@gmail.com<br />
-
-<br />
-<br />
 
 
 <h3 align="left">Languages and Tools:</h3>
